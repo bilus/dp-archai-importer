@@ -1,8 +1,0 @@
-.floobits
-.flooignore
-target/
-project/target
-.ensime_cache/
-checkpoint/
-.idea/
-.ensime
